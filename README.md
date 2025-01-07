@@ -3,6 +3,8 @@
 ## Overview
 This project aims to provide insightful performance analysis of social media platforms using Astra DB for data storage and LangFlow for low-code process orchestration. The application is developed using Python APIs for backend operations and Streamlit for an interactive user interface (UI) and also providing custom dataset in the 'csv' format. It is designed as a qualification round test project, demonstrating robust technical and analytical capabilities.
 
+Check out the deployed version [here](https://smh-syntax-terrors-smpa.streamlit.app/)!
+
 ---
 
 ## Features
@@ -103,7 +105,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Team Contributions
 - [**Mitrank Shah** (Me)](https://github.com/mitrank)
-- **Yogesh Upadhyay:**
-- **Kunal Chakate:**
-- **Govinda Giri:**
+- [**Yogesh Upadhyay**](https://github.com/YogeshUpdhyay)
+- [**Kunal Chakate**](https://github.com/Temons05)
+- [**Govinda Giri**](https://github.com/FATHOM-HUNTER)
 
