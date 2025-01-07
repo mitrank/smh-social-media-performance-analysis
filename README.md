@@ -1,12 +1,12 @@
 # Social Media Performance Analysis
 
 ## Overview
-This project aims to provide insightful performance analysis of social media platforms using Astra DB for data storage and LangFlow for low-code process orchestration. The application is developed using Python APIs for backend operations and Streamlit for an interactive user interface (UI). It is designed as a qualification round test project, demonstrating robust technical and analytical capabilities.
+This project aims to provide insightful performance analysis of social media platforms using Astra DB for data storage and LangFlow for low-code process orchestration. The application is developed using Python APIs for backend operations and Streamlit for an interactive user interface (UI) and also providing custom dataset in the 'csv' format. It is designed as a qualification round test project, demonstrating robust technical and analytical capabilities.
 
 ---
 
 ## Features
-- **Social Media Data Integration:** Seamless integration with popular social media platforms for data extraction and analysis.
+- **Social Media Data Integration:** Seamless integration with popular social media platforms for data extraction and analysis by providing the dataset created in the 'csv' format.
 - **Low-Code Process Automation:** Utilizes LangFlow for efficient, low-code workflows to simplify complex processes.
 - **Real-Time Analytics:** Provides interactive and real-time visualizations using Streamlit.
 - **Scalable Storage:** Astra DB is leveraged for high-performance, scalable, and flexible data storage.
