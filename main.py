@@ -30,6 +30,9 @@ def run_flow(message: str) -> dict:
 
 def main():
     st.title("Social Media Performance Analysis")
+    st.text("By - Syntax Terrors")
+
+    st.divider()
 
     message = st.text_area("Input", placeholder="Get insights about the posts...")
 

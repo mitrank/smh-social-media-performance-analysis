@@ -101,8 +101,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Contact
-For further information, contact:
-- **Email:** [mitrankshah2@gmail.com]
-- **GitHub:** [mitrank]
+## Team Contributions
+- [**Mitrank Shah** (Me)](https://github.com/mitrank)
+- **Yogesh Upadhyay:**
+- **Kunal Chakate:**
+- **Govinda Giri:**
 
